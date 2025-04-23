@@ -22,10 +22,3 @@ For collaborations or feedback:
 
 - 📧 hosseinbabaei20052005@gmail.com  
 - 💬 [Telegram](https://t.me/bepeni)  
-
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Hosseinbabaei1/personal-portfolio)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Hosseinbabaei1/personal-portfolio)
-![GitHub language count](https://img.shields.io/github/languages/count/Hosseinbabaei1/personal-portfolio)
-![GitHub top language](https://img.shields.io/github/languages/top/Hosseinbabaei1/personal-portfolio)
-![GitHub license](https://img.shields.io/github/license/Hosseinbabaei1/personal-portfolio)
